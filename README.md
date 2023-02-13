@@ -16,3 +16,4 @@ class Dog(Animal):
 
 dog = Dog("Buddy", "Labrador")
 print(dog)
+
