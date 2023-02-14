@@ -15,5 +15,6 @@ class Dog(Animal):
         return f"{self.name} is a {self.breed} {self.species}"
 
 dog = Dog("Buddy", "Labrador")
+
 print(dog)
 
